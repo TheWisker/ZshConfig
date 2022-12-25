@@ -1,4 +1,4 @@
-<h1 align="center">ZSH shell config file</h1>
+<h1 align="center">ZSH Shell Config file</h1>
 
 <h2 align="center">Installation</h2>
 
