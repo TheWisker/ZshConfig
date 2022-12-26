@@ -14,14 +14,14 @@ rm -fr ZshConfig
 <h2 align="center">Features</h2>
 
 * Some aliases
-* Prompt themes
 * History search
+* Prompt themes
 * Autocompletion
+* Syntax highlighting
 * Ls command colors
 * Zoxide improved cd
-* Syntax highlighting
-* Home, end & supr fixed
 * Tab cycling completion
+* Home, end & supr fixed
 * Autorehasing on pacman update
 
 <h2 align="center">Author</h2>
